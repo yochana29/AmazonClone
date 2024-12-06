@@ -1,7 +1,5 @@
 # Amazon_web_Clone
 
-#### Video Demo:  https://youtu.be/24H5lMj6APU
-#### Description:
 
 Amazon Clone - Front-End Project (HTML & CSS)
 
